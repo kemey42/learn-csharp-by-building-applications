@@ -6,3 +6,4 @@ My source codes from [Learn C# By Building Applications](https://www.udemy.com/c
 | Date | Description |
 | ---- | ----------- |
 | 20210828 | Completed Module 01 - Simple Calculator |
+| 20210829 | Completed Module 02 - Word Unscrambler |
